@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    font-family: arial;
+    background-color: #cac9ff;
+    color: #004479;
+    flex-direction: column;
+    text-align:center;
+}
+
+
+
+h1 {
+    margin-bottom: 30px;
+    font-size: 8rem;
+}
+
+.watch-buttons button {
+    font-size: 2rem;
+    margin-right: 30px;
+    background-color: #eecbff;
+    color: #004479;
+}
+
+#timer-variable {
+    font-size: 6rem;
+    color: #006524;
+}
