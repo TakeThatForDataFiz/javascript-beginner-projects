@@ -21,7 +21,9 @@ h1 {
     color: #004479;
 }
 
-#timer-variable {
+.timer-variable p {
     font-size: 6rem;
     color: #006524;
+    font-weight: bold;
+    display: inline-flex;
 }
