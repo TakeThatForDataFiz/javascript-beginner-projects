@@ -30,6 +30,13 @@ const formatTimeElapsed = function(amtOfTime, hours, minutes, seconds) {
     }
 }
 
+// make function to generate timer
+const generateTimer = function(interval_function, amtOfTime, isStopped) {
+    while (isStopped == false) {
+        // do something to generate function
+    }
+}
+
 // get timer element
 
 console.log(formatTimeElapsed(65013, hours, minutes, seconds))
